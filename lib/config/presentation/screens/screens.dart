@@ -1,3 +1,5 @@
+export 'package:widgets_app/config/presentation/screens/snackbar/snackbar_screen.dart';
+
 export 'package:flutter/material.dart';
 export 'package:widgets_app/config/presentation/screens/animated/animated_screen.dart';
 export 'package:widgets_app/config/presentation/screens/app_tutorial/app_tutorial_screen.dart';
