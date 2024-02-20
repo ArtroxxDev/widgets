@@ -38,5 +38,11 @@ const appMenuItem = <MenuItem>[
       title: 'Animated container',
       subTitle: 'Animaciones y transiciones',
       link: '/animated',
-      icon: Icons.animation_outlined)
+      icon: Icons.animation_outlined),
+  MenuItem(
+    title: 'Ui Controls',
+    subTitle: 'Ui controls',
+    link: '/ui-controls',
+    icon: Icons.settings,
+  )
 ];
