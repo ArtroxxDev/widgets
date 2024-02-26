@@ -1,3 +1,5 @@
+export 'package:widgets_app/config/presentation/screens/counter/counter_screen.dart';
+
 export 'package:widgets_app/config/presentation/screens/snackbar/snackbar_screen.dart';
 export 'package:widgets_app/config/presentation/screens/ui_controls/ui_controls_screen.dart';
 
