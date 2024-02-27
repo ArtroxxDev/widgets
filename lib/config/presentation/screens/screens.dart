@@ -1,3 +1,5 @@
+export 'package:widgets_app/config/presentation/screens/theme_changer/theme_changer_screen.dart';
+
 export 'package:widgets_app/config/presentation/screens/counter/counter_screen.dart';
 
 export 'package:widgets_app/config/presentation/screens/snackbar/snackbar_screen.dart';
